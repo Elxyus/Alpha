@@ -1,3 +1,21 @@
+## Favorites
+- Poppins
+- Inter
+- Helvetica
+- Roboto
+- Montserrat
+- Gotham
+- Open Sans
+- Futura
+- Ubuntu
+- Outfit
+- Bebas Neue
+- Quicksand
+- Rubik
+- Overpass
+
+Cabin, Poiret One, Proxima Nova, Lato, Avenir, Gill Sans, Frutiger, Univers, Papyrus, Anton, League Spartan, Amazon Ember
+
 ## Download
 * GoogleFonts
 * Bunny Fonts - privacy friendly alternative
