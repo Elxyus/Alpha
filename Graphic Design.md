@@ -32,9 +32,11 @@ images, icons, illustrations, and other stuff:
 - 99designs
 
 ## Collections
+More resources.
 - [The Stocks 3](https://v3.thestocks.im)
 - [Design Resources](https://designresourc.es)
 - [Best Design Resources 2024 - Dezmi](https://dezmi.com/design-resources)
+- freedesignresources.net
 
 ## AI Upscale
 - imgupscaler.com
@@ -63,3 +65,4 @@ images, icons, illustrations, and other stuff:
 - **Templates:** ElegantFlyers, PikBest
 - Lummi.ai
 - public.work
+- nomorecopyright.com
