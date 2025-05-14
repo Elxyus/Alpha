@@ -1,4 +1,3 @@
-
 I have collected many interesting ones! Includes Personal Blogs, Digital Gardens, Neocities sites & many more!
 - Gwern.net
 - [LazyBear](https://lazybea.rs)
@@ -12,26 +11,30 @@ I have collected many interesting ones! Includes Personal Blogs, Digital Gardens
 - so1o.xyz
 - 82mhz.net
 - [Kottke](https://kottke.org) - one of the oldest blog since 1998
-- [Shariq Raza Qadri](https://cosmicqbit.dev/blog)
 - Tonsky.me
+- thebraindumpblog.com
 - [Robb Knight](https://rknight.me)
 - [Steph Ango](https://stephango.com) - CEO of Obsidian
 - [Jethro's Braindump](https://braindump.jethro.dev)
 - [Sridhar Ratnakumar](https://srid.ca/-/all)
 - [Opinionated Guides](https://opguides.info/)
 - [Patterns](https://gordonbrander.com/pattern) - Gordon Brander
+- [Shariq Raza Qadri](https://cosmicqbit.dev/blog)
 - leilukin.com, autisticasfxxk.com
 - anniegreens.lol
 - xandra.cc
-- frills.dev (?)
+- frills.dev
 - dimden.dev
 - whiona.me
 - blog.darylsun.page
+- integralguide.com
+## Neocities
 - unapothecary.neocities.org
 - planetaryinfluence.neocities.org
 - starbage.neocities.org
 - afellowu.neocities.org
 - solaria.neocities.org
+- linwood.neocities.org
 ## Wikis
 or Digital Gardens
 - [Everything I Know](https://wiki.nikiv.dev/) - Nikiv
@@ -48,6 +51,7 @@ Webrings, Blogrolls, Directory, Search
 - [The 512KB Club](https://512kb.club)
 - [The Darktheme Club](https://darktheme.club)
 - Blogroll.org
+- blogroll.club
 - Indieseek.xyz
 - [i.webthings directory](https://directory.joejenett.com)
 - Wiby.me
