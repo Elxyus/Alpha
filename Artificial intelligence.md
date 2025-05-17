@@ -16,6 +16,10 @@
 - ChatSonic
 - DDG AI - no data training on your chat
 - HuggingChat
+- playground.allenai.org
+- AndiSearch
+- build.nvidia.com - Deepseek R1 / Multiple Chatbots
+- Groq.com - Qwen / Deepseek R1 / Multiple Chatbots
 - OpenRouter.ai
 - Heck.ai - ChatGPT, DeepSeek & Gemini / No Signup
 - aiassistantbot.pages.dev
@@ -46,6 +50,7 @@
 - Perchance
 - [Art Genie](https://artgenie.pages.dev/)
 - Raphael.app - unlimited
+- [FLUX Pro](https://huggingface.co/spaces/NihalGazi/FLUX-Pro-Unlimited)
 - NightCafe Creator - free 5 images per day
 - DALL-E 3
 - Adobe Firefly
@@ -70,3 +75,4 @@ find more ai websites.
 - thisxdoesnotexist.com
 - musichero.ai #music
 - feedough.com/ai-prompt-generator
+- enzostvs-deepsite.hf.space - website creation
