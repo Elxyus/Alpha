@@ -11,6 +11,7 @@
 - lambda.chat - DeepSeek, no-signup
 - Grok
 - Mistral
+- beta.lmarena.ai
 - blackbox.ai - no signup req
 - wrtn.ai - free GPT4
 - ChatSonic
@@ -47,10 +48,17 @@
 ## Images
 - ChatGPT | Gemini Imagen 3
 - Meta AI | Copilot
+- beta.lmarena.ai
+- [NVIDIA NIM](https://build.nvidia.com/models?filters=usecase%3Ausecase_image_gen)
+- [FLUX.1 Schnell](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell)
+- [FLUX Pro](https://huggingface.co/spaces/NihalGazi/FLUX-Pro-Unlimited)
+- dezgo.com
+- [Vheer](https://vheer.com/app/text-to-image)
+- raphaelai.org
+- [ComfyUI Online](https://www.runcomfy.com/comfyui-web)
 - Perchance
 - [Art Genie](https://artgenie.pages.dev/)
 - Raphael.app - unlimited
-- [FLUX Pro](https://huggingface.co/spaces/NihalGazi/FLUX-Pro-Unlimited)
 - NightCafe Creator - free 5 images per day
 - DALL-E 3
 - Adobe Firefly
