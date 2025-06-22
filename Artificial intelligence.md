@@ -1,6 +1,6 @@
 ## Chatbots
 - ChatGPT by OpenAI
-	- freegpt.tech
+	- freegpt.es, freegpt.tech
 - Gemini by Google
 - DeepSeek (Chinese)
 - Qwen by Alibaba
@@ -8,22 +8,23 @@
 - Claude
 - Meta AI - Llama 4
 - Copilot by Microsoft
-- lambda.chat - DeepSeek, no-signup
+- [NVIDIA NIM](https://build.nvidia.com) - Deepseek-R1 / Llama 4 / Qwen 3 / Multiple Chatbots- lambda.chat - DeepSeek, no-signup
 - Grok
 - Mistral
 - beta.lmarena.ai
 - blackbox.ai - no signup req
-- wrtn.ai - free GPT4
 - ChatSonic
-- DDG AI - no data training on your chat
+- Duck.ai - ChatGPT 4o mini / o4-mini / Llama 3 / Claude 3 / Mistral | No training on your data.
 - HuggingChat
 - playground.allenai.org
+- playground.perplexity.ai
 - AndiSearch
-- build.nvidia.com - Deepseek R1 / Multiple Chatbots
 - Groq.com - Qwen / Deepseek R1 / Multiple Chatbots
 - OpenRouter.ai
 - Heck.ai - ChatGPT, DeepSeek & Gemini / No Signup
+- [Mirexa](https://mirexa.vercel.app) - Deepseek R1 / GPT 4.1 / Mistral / Grok 3 mini
 - aiassistantbot.pages.dev
+- wrtn.ai - answer always in korean, needs translation.
 - pi.ai - your personal AI, your AI companion that's here to be helpful, entertaining, and a trusted source of information.
 - Manus AI - automation
 ## Search Engines
@@ -33,6 +34,7 @@
 - Phind - no signup
 - Morphic.sh - GPT-4o-mini / No Sign-Up
 - Hixa.fyi - no signup
+- Felo.ai
 - iAsk.ai
 ### Others
 - [GOODY-2](https://www.goody2.ai/chat) - It's so safe, it won't answer anything that could possibly be construed as controversial or problematic.
