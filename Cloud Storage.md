@@ -1,16 +1,17 @@
-- **Better Privacy:** ProtonDrive, pCloud, Filen, Mega, Internxt, Sync, Tresorit
+- **Better Privacy:** ProtonDrive, pCloud, Filen, MEGA.NZ, Internxt, Sync, Tresorit
 - Dropbox, Yandex Disk (Russian), TeraBox - 1TB
 ## File Hosts
 use them for temp stuff only.
 - buzzheavier.com - unlimited, forever
-- send.cm - 100GB, 15 days
+- files.vc - 10GB, forever if logged in
+- send.now - 100GB, 30d after last download
 - file.io - 2GB, 1 year max
-- filehaus.top (pk, su) - 200GB, forever
 - catbox.moe - 200MB, forever
-- hidan.sh - unlimited, 10+ days
-- WeTransfer, SwissTransfer (50GB)
+- transfer.it by MEGA.NZ - 20GB, 90d
 - MediaFire
 - FEX.net
+- WeTransfer, SwissTransfer (50GB)
+- [Tresorit Send](https://send.tresorit.com) | [pCloud Transfer](https://transfer.pcloud.com) - 5GB, 7d
 
 | Site               | Limit          | Remarks?              |
 | ------------------ | -------------- | --------------------- |
